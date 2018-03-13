@@ -7,7 +7,7 @@ published: false
 2.在该目录下安装webpack至最新版本
 
 	npm install --save-dev  webpack
-   npm install webpack@beta
+    npm install webpack@beta（version）
    
 3.安装webpack-cli插件
 
