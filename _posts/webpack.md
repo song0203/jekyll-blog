@@ -9,9 +9,8 @@ published: false
 	npm install --save-dev  webpack
     npm install webpack@beta（version）
    
-3.安装webpack-cli插件
-
-   npm install webpack-cli -D
+3.安装webpack-cli插件	    
+   	npm install webpack-cli -D
 
 
 ## 起步
