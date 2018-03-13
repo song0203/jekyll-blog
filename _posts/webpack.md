@@ -3,10 +3,14 @@ published: false
 ---
 ## 准备步骤
 1.创建目录，cmd下跳转到该目录路径
+
 2.在该目录下安装webpack至最新版本
+
 	npm install --save-dev  webpack
-   npm install webpack@beta（版本号）
+   npm install webpack@beta
+   
 3.安装webpack-cli插件
+
    npm install webpack-cli -D
 
 
